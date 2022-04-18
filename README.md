@@ -13,7 +13,7 @@ This is our Mini Project for SC1015 Intro to Data Science & Artificial Intellige
 insert some shit here
 # AI Models Used
 <ul>
-  <li>Decision Tree/li>
+  <li>Decision Tree</li>
   <li>Random Forest</li>
   <li>Random Forest (With Hyperparameter)</li>
   <li>K-Fold Logistic Regression Model</li>
