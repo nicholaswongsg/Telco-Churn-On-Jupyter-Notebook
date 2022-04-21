@@ -12,6 +12,15 @@ This is our Mini Project for SC1015 Intro to Data Science & Artificial Intellige
 # Problem Defination
 How to stop customers who are leaving for other telcos? Which attributes affect churn rate and how can we predict churning customers and improve customer retention?
 
+# Data Preprocessing
+<ul>
+  <li>Checked the dataset and removed all duplicated rows</li>
+  <li>Removed rows that contained blank fields</li>
+  <li>Check and remove any outliers using the box-plot and IQR</li>
+  <li>Changing of data types from object to float for better prediction of data (one-hot encoder)</li>
+  <li>Reclassified data into unique classes to better use it to predict/li>
+</ul>  
+
 # AI Models Used
 <ul>
   <li>Decision Tree</li>
@@ -40,8 +49,3 @@ Hence, we have charted out the consumer experience journey and show our recommen
 
 # What Did We Learn From This Project?
 Apart from what we learned in SC1015, our group has consistently consulted with our TA Xue Wani. This has challenged our outlook on how we approach data problems. We picked up one-hot encoding and AI models like Artificial Neural Network (ANN) and K-Fold to test which models work best to predict the true positives (churn customers).
-
-# References
-<ul>
-  <li>https://www.kaggle.com/code/elmarico/customer-churn-analysis</li>
-</ul>
