@@ -18,7 +18,7 @@ How to stop customers who are leaving for other telcos? Which attributes affect 
   <li>Removed rows that contained blank fields</li>
   <li>Check and remove any outliers using the box-plot and IQR</li>
   <li>Changing of data types from object to float for better prediction of data (one-hot encoder)</li>
-  <li>Reclassified data into unique classes to better use it to predict/li>
+  <li>Reclassified data into unique classes to better use it to predict</li>
 </ul>  
 
 # AI Models Used
