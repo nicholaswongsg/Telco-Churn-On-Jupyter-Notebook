@@ -9,13 +9,13 @@ This is our Mini Project for SC1015 Intro to Data Science & Artificial Intellige
 <table>
   <tr>
     <th>Member</th>
-    <th>ANN, Random Forest, Random Forest (With Hyperparameter)</th>
-    <th>@DonovanVA</th>
+    <th>Contributions</th>
+    <th>Github</th>
   </tr>
   <tr>
     <td>Donavan Ng Chao Yu</td>
-    <td>Contributed</td>
-    <td>@Account</td>
+    <td>ANN, Random Forest, Random Forest (With Hyperparameter)</td>
+    <td>@DonovanVA</td>
   </tr>
   <tr>
     <td>Nicholas Wong Jia Hao</td>
