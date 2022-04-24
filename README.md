@@ -24,8 +24,8 @@ This is our Mini Project for SC1015 Intro to Data Science & Artificial Intellige
   </tr>
   <tr>
     <td>Don Seo Kang Rui</td>
-    <td>Contributed</td>
-    <td>@Account</td>
+    <td>Data Preparation, Data Visualisation, Decision Tree</td>
+    <td>@donseokangrui</td>
   </tr>
 </table>
 
