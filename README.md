@@ -72,7 +72,7 @@ Apart from what we learned in SC1015, our group has consistently consulted with 
 
 # References
 <ul>
-  <li>Kaggle - </li>
+  <li>Kaggle - https://www.kaggle.com/datasets/blastchar/telco-customer-churn </li>
   <li>ANN - https://www.bogotobogo.com/python/scikit-learn/Artificial-Neural-Network-ANN-1-Introduction.php</li>
   <li>K-Fold - https://notebook.community/RTHMaK/RPGOne/scipy-2017-sklearn-master/notebooks/13%20Cross%20Validation</li>
   <li>One-Hot Encoder - https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html</li>
