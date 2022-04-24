@@ -76,4 +76,5 @@ Apart from what we learned in SC1015, our group has consistently consulted with 
   <li>ANN - https://www.bogotobogo.com/python/scikit-learn/Artificial-Neural-Network-ANN-1-Introduction.php</li>
   <li>K-Fold - https://notebook.community/RTHMaK/RPGOne/scipy-2017-sklearn-master/notebooks/13%20Cross%20Validation</li>
   <li>One-Hot Encoder - https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html</li>
+  <li>Prevent Overfitting in Neural Network - https://www.analyticsvidhya.com/blog/2021/06/complete-guide-to-prevent-overfitting-in-neural-networks-part-1/</li>
 </ul>
